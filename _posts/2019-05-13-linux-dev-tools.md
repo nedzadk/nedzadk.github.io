@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Linux/Dev tools to make your life easier
+title: Linux tools and applications to make your life easier
 tags:
   - linux
-  - dell
+  - dev
+  - applications
+  - tools
 ---
 
 Collection of Linux tools and applications that will make your life easier as a software developer or regular linux user.
