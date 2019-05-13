@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Dell XPS 9560 - Finally perfect linux distro
+title: Dell XPS 9560 - The perfect linux distro
 tags:
   - linux
   - dell
 ---
-
-### Dell XPS 9560 - The perfect Linux Distro
 
 My adventure trying to get Linux running without issues on Dell XP 9560 (4k version with Killer Wifi)
 is finally over.
@@ -26,7 +24,7 @@ Even though _Pop!\_OS_ is based on Ubuntu, guys from System76 added something to
 With this my search for Linux distro that will not cause me to pull my hair couple times a day is finally over. I've been running it for more than a month now
 with not a single issue during that time. Everything works like charm.
 
-If you want to give it a try, get _Pop!\_OS_ here: (https://system76.com/pop)[https://system76.com/pop]
+If you want to give it a try, get _Pop!\_OS_ here: [https://system76.com/pop](https://system76.com/pop)
 
 P.S.
 I am in no way related to System76 and have not been compensated for this shout out!
