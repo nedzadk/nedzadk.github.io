@@ -13,7 +13,8 @@ Collection of Linux tools and applications that will make your life easier as a 
 ## Comfortable Swipe
 
 Bind three or four fingers touchpad swipe actions to some keyboard shortcut. For example you can swipe between workspaces.
-[Comfortable Swipe](https://github.com/Hikari9/comfortable-swipe)
+
+[Check it out here](https://github.com/Hikari9/comfortable-swipe)
 
 ## Kitematic for Docker
 
