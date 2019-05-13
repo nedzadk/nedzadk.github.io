@@ -22,7 +22,7 @@ Full stack developer **(remote position)**
 
 `2009-2015`
 **BHMAC**
-Software developer (geo applications for Land Mine action center)
+Software developer (GIS applications for Land Mine action center)
 
 `2004-2009`
 **TV OBN**
@@ -31,6 +31,12 @@ Software developer (applications for TV broadcasting)
 `2002-2004`
 **Elektroakustik**
 IT Support and software developer
+
+## Teaching
+
+`2018`
+**ITAcademy**
+Visiting lecturer
 
 ## Education
 

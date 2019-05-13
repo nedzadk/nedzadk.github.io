@@ -1,34 +1,32 @@
 ---
 layout: page
-title: Projects
+title: My Projects
 permalink: /projects/
 ---
 
 {% if site.projects.size == 0 %}
-  <h2>No projects</h2>
+<h2>No projects</h2>
 {% endif %}
 
-<ul class="archive">
-  {% for post in site.projects %}
-    {% unless post.next %}
-      <h2>{{ post.date | date: '%Y' }}</h2>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-      {% if year != nyear %}
-        <h2>{{ post.date | date: '%Y' }}</h2>
-      {% endif %}
-    {% endunless %}
+<div class="posts">
+  {% for project in site.projects %}
+  <article class="post">
+    <h2>{{ project.name }}</h2>
+    <div class="meta">
+      <span class="date">
+        {{ project.role }}
+      </span>
 
-    <li>
-      {% if post.link %}
-      <a href="{{ post.link }}">
-      {% else %}
-      <a href="{{ site.baseurl }}{{ post.url }}">
-      {% endif %}
-        {{ post.title }}
-      </a>
-      <time>{{ post.date | date: "%Y-%m-%d" }}</time>
-    </li>
+      <ul class="tag">
+        <li>
+          <a href="#">
+            {{ project.tech_stack }}
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    {{ project.content }}
+  </article>
   {% endfor %}
-</ul>
+</div>
