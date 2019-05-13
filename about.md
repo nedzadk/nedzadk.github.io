@@ -4,15 +4,47 @@ title: About
 permalink: /about/
 ---
 
-Full stack developer @ [Ministry of Programming](https://www.mop.ba)
+## Currently
 
-### Tech stack
+Full stack developer @ [Ministry of Programmign](https://www.mop.ba)
 
-**Javascript**
-React, Angular, Node, GraphQL
-**Ruby**
-Ruby on Rails
-**Database**
-Mysql, Postgres, Mongo
+### Specialized in
 
-Please [email me](mailto:nedzadk@gmail.com) if you have any questions
+Modern web technologies
+
+### Research interests
+
+Cooling, power series, optics, alchemy, planetary motions, apples.
+
+## Work history
+
+`2015-`
+**Ministry of Programming**
+Full stack developer
+
+`2010-2017`
+**eCampus Ventures**
+Full stack developer **(remote position)**
+
+`2009-2015`
+**BHMAC**
+Software developer (geo applications for Land Mine action center)
+
+`2004-2009`
+**TV OBN**
+Software developer (applications for TV broadcasting)
+
+`2002-2004`
+**Elektroakustik**
+IT Support and software developer
+
+## Education
+
+`1997-2001`
+**High school**
+
+`2005`
+**Microsoft Cerified Professional for Windows Networks**
+
+`2008`
+**CISCO Academy**
