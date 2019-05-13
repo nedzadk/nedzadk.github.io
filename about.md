@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## Currently
-
 Full stack developer @ [Ministry of Programming](https://www.mop.ba)
 
-### Specialized in
+## Specialized in
 
 Modern web technologies
 
