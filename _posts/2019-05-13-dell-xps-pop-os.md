@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dell XPS 9560 - The perfect linux distro
+title: Dell XPS 9560 - The perfect Linux distro
 tags:
   - linux
   - dell
