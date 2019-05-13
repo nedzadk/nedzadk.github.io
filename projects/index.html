@@ -4,12 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-{% if site.posts.size == 0 %}
+{% if site.projects.size == 0 %}
   <h2>No projects</h2>
 {% endif %}
 
 <ul class="archive">
-  {% for post in site.posts %}
+  {% for post in site.projects %}
     {% unless post.next %}
       <h2>{{ post.date | date: '%Y' }}</h2>
     {% else %}
