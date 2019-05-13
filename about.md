@@ -6,15 +6,11 @@ permalink: /about/
 
 ## Currently
 
-Full stack developer @ [Ministry of Programmign](https://www.mop.ba)
+Full stack developer @ [Ministry of Programming](https://www.mop.ba)
 
 ### Specialized in
 
 Modern web technologies
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Work history
 
