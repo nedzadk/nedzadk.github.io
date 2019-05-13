@@ -19,6 +19,8 @@ flags before booting into installation.
 All above issues are resolved once i gave _Pop!\_OS_ chance. Everything worked out of the box. Installation process did not require
 special configuration just to run it, and if you download Nvidia ISO of _Pop!\_OS_ your integrated and dedicated GPUs work out of the box (it does require reboot on switching but at least it works each time as expected and since i do not use Nvidia GPU most of the time this is not issue for me).
 
+![neofetch](/images/pop_os_ss.jpg)
+
 Even though _Pop!\_OS_ is based on Ubuntu, guys from System76 added something to make it more compatible with modern hardware than Ubuntu is.
 
 With this my search for Linux distro that will not cause me to pull my hair couple times a day is finally over. I've been running it for more than a month now
