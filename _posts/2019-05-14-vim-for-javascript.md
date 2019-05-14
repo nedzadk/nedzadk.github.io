@@ -26,7 +26,7 @@ One more image showing Linter and Prettier in action
 ![VimConfig](/images/posts/vim_config2.jpg)
 
 
-My dotfiles could be find [here](https://github.com/nedzadk/dotfiles)! 
+My dotfiles can be found [here](https://github.com/nedzadk/dotfiles)! 
 
 ```
 Requirements:
