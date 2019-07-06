@@ -12,7 +12,7 @@ Modern web technologies
 
 ## Work history
 
-`2015-`
+`2015-2019`
 **Ministry of Programming**
 Full stack developer
 
