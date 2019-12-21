@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Full stack developer @ [Ministry of Programming](https://www.mop.ba)
+Sofware engineer / Consultant
 
 ## Specialized in
 
@@ -13,7 +13,7 @@ Modern web technologies
 ## Work history
 
 `2019-`
-**Software developer / Consultant**
+**Software engineer / Consultant**
 
 `2015-2019`
 **Ministry of Programming**
