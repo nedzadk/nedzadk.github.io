@@ -46,7 +46,7 @@ I should also mention that together with WSL2 Microsoft introduced Windows Termi
 
 So as I said after four weeks I am pretty happy with setup*, not a single issue appeared and all my projects work without issues. I was able to be productive without thinking much about how to make tools work for me, they just do. 
 
-I am really happy to see where "new" Microsoft is going and excited for 2020 once WSL2 is release to the public. I am sure by then it will be a perfect tool for developers out there waiting for good enough alternatives for their MacBooks. 
+I am really happy to see where "new" Microsoft is going and excited for 2020 once WSL2 is released to the public. I am sure by then it will be a perfect tool for developers out there waiting for proper alternative for their MacOS and MacBook. 
 
 
 ``` * Dell XPS 7390/13/FHD/16/512/i7 10510U  ```
