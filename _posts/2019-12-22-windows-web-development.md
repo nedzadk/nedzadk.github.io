@@ -8,7 +8,7 @@ tags:
   - vscode
   - windows insider
 ---
-
+![WSL2/Ubuntu and Windows Terminal](../images/screen2.png)
 For the last 7+ years, I've been using macOS and MacBooks exclusively for work and everything else. My development is mostly with Javascript (React, Node, Angular) but couple projects run on Ruby on Rails, Python and sometimes Java.
 
 I am a big fan of Macbooks and Apple but I also think that hardware price is too much and for the same price you can get a much better laptop elsewhere (except touch bar, no other laptop touch bar can match one on MacBook still). I always wanted to make a switch but I knew that I would be greeted with tons of issues and missing software. 
