@@ -9,23 +9,23 @@ tags:
   - windows insider
 ---
 ![WSL2/Ubuntu and Windows Terminal](../images/screen2.png)
-For the last 7+ years, I've been using macOS and MacBooks exclusively for work and everything else. My development is mostly with Javascript (React, Node, Angular) but couple projects run on Ruby on Rails, Python and sometimes Java.
+For more than seven years I've been using macOS and MacBooks exclusively for work and everything else. My tech stack mostly involves Javascript (React, Node, Angular) but I do have a couple of projects that are written using Ruby on Rails, Python and one even in Java (spring-boot).
 
-I am a big fan of Macbooks and Apple but I also think that hardware price is too much and for the same price you can get a much better laptop elsewhere (except touch bar, no other laptop touch bar can match one on MacBook still). I always wanted to make a switch but I knew that I would be greeted with tons of issues and missing software. 
+I am a big fan of Macbooks and Apple because of their "it just works" philosophy, but I also think that hardware price is too much expensive and for the same price you can get a much better laptop elsewhere (except touch bar, no touch bar can match one on MacBook in PC land). Windows is OS I grew up with like most of the kids in that time, I started with 3.11 version and I always wanted to make a comeback but I knew that I would be greeted with tons of issues and missing developer tools/software. 
 
-I know you probably ask why not Linux? Well I did gave Linux a try a lot, and although most dev stuff works perfectly on Linux, modern hardware support, software support (no, GIMP is no alternative to Photoshop and it probably will never be) and UX experience is I think at least 10 years behind Windows or macOS. 
+Some of you might wonder why not Linux? It can run on most of the cheaper hardware and work pretty well. Well I did gave Linux a try a lot, and although most development stuff I need is working perfectly on Linux, modern hardware support, software support (no, GIMP is no alternative to Photoshop and it probably never will be) and UX experience is what I think at least ten years behind Windows or macOS. Battery drains and bad handling of multiple GPUs inside laptops is still a common issue for all distros out there and I did try most of them. Closest one with most of the hardware related stuff working out of the box is Pop_OS! But on my new laptop, it refused to boot into installation without some fiddling with grub/gdisk. 
 
-So I waited for Microsoft to wake up and start fighting for developers out there, and they kind of did.
+So I waited for Microsoft to wake up and start fighting for developers out there, and they kind of did, they gave us...
 
 ## WSL
 
 In 2016 Microsoft announced a WSL (Windows Linux Subsystem) worthy alternative to Unix Roots of MacOS. WSL was Linux "compatibility layer" that allowed Windows to run Linux applications.
 
-It sounded so cool but in reality, it was bad, you could not run every Linux application it is painfully slow in I/O operations. When installing the npm packages process could take minutes when in reality should have been done in seconds. 
+It sounded so cool but in reality, it was bad, you could not run every Linux application, it was painfully slow with I/O operations, installing the npm packages process could take minutes when in reality should have been done in seconds. 
 
-I would also love to mention that no good terminal emulator was available, the best one that I've used with WSL was ConEmu or starting X Server and using Linux Terminator. 
+On top of all those issues, no good terminal emulator was available, the best one that I've used with WSL was ConEmu or starting X Server and using Linux Terminator. 
 
-Over the years I gave WSL a couple of chances to impress me but it always failed to do so. So I stopped trying and went back to macOS. 
+Here and there I would give WSL a chance to impress me over the years, but it always failed to do so, and after a while, I stopped trying and went back to macOS always looking back to OS that made it all happen for me.
 
 ## New Hope (WSL2 or what WSL should have been)
 
