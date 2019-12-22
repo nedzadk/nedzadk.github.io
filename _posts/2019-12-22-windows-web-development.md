@@ -9,8 +9,6 @@ tags:
   - windows insider
 ---
 
-## Prequel 
-
 For the last 7+ years, I've been using macOS and MacBooks exclusively for work and everything else. My development is mostly with Javascript (React, Node, Angular) but couple projects run on Ruby on Rails, Python and sometimes Java.
 
 I am a big fan of Macbooks and Apple but I also think that hardware price is too much and for the same price you can get a much better laptop elsewhere (except touch bar, no other laptop touch bar can match one on MacBook still). I always wanted to make a switch but I knew that I would be greeted with tons of issues and missing software. 
@@ -38,7 +36,7 @@ So I waited a couple of versions and decided to give Windows another try as my m
 I am currently writing this from the Windows machine that I use as my main fulltime dev station, and I can say that I am happy. In the past four weeks, not a single thing made me regret switch (which happened a couple of times a day when used WSL1). 
 WSL2 is as fast as it can be, Windows integration with Linux is so seamless that you forget you are running a virtual Linux system. You `cd` to project directory and type `code .`, Visual Studio Code (Windows version not WSL) would popup with your project loaded and ready to debug with remote debugger setup between windows and WSL and I did not have to do anything except installing VS Code for Windows, rest of the setup (remote debugger and other stuff) were installed automatically on first Visual Studio Code start. 
 
-![](../images/screen.png)
+![WSL2/Ubuntu and Windows Terminal](../images/screen.png)
 
 Latest Docker Edge version has WSL2 support also and it works perfectly when enabled (in Docker settings after installation). So far I used to run Postgres and MySql databases for development inside WSL and it worked perfectly. 
 
