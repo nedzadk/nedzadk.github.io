@@ -11,9 +11,12 @@ tags:
 ![WSL2/Ubuntu and Windows Terminal](../images/screen2.png)
 For more than seven years I've been using macOS and MacBooks exclusively for work and everything else. My tech stack mostly involves Javascript (React, Node, Angular) but I do have a couple of projects that are written using Ruby on Rails, Python and one even in Java (spring-boot).
 
-I am a big fan of Macbooks and Apple because of their "it just works" philosophy, but I also think that hardware price is too much expensive and for the same price you can get a much better laptop elsewhere (except touch bar, no touch bar can match one on MacBook in PC land). Windows is OS I grew up with like most of the kids in that time, I started with 3.11 version and I always wanted to make a comeback but I knew that I would be greeted with tons of issues and missing developer tools/software. 
+I am a big fan of Macbooks and Apple because of their "it just works" philosophy, but I also think that hardware price is too much expensive and for the same price you can get a much better laptop elsewhere (except touch bar, no touch bar can match one on MacBook in PC land).
+Windows is OS I grew up with like most of the kids in that time, it's a place where I made my first steps in to the programming. 
+I started with version 3.11 and as my first programming language i picked Basic (again like most of the kids from that age), started with Basic for DOS and than I moved to Liberty Basic (funny thing, it is still around :D http://libertybasic.com/). 
+So it was logical that i always had some nostalgic feel about Microsoft and Windows and was always looking for a reason to switch. 
 
-Some of you might wonder why not Linux? It can run on most of the cheaper hardware and work pretty well. Well I did gave Linux a try a lot, and although most development stuff I need is working perfectly on Linux, modern hardware support, software support (no, GIMP is no alternative to Photoshop and it probably never will be) and UX experience is what I think at least ten years behind Windows or macOS. Battery drains and bad handling of multiple GPUs inside laptops is still a common issue for all distros out there and I did try most of them. Closest one with most of the hardware related stuff working out of the box is Pop_OS! But on my new laptop, it refused to boot into installation without some fiddling with grub/gdisk. 
+Some of you might wonder why not Linux? It can run on most of the cheaper hardware and work pretty well. Well I tried Linux (more than once) and although most development stuff I need is working perfectly on it, modern hardware support, software support (no, GIMP is no alternative to Photoshop and it probably never will be) and UX experience is what I think at least ten years behind Windows or macOS. Battery drains and bad handling of multiple GPUs inside laptops is still a common issue for all distros out there and I did try most of them. Closest one with most of the hardware related stuff working out of the box is Pop_OS! But on my new laptop, it refused to boot into installation without some fiddling with grub/gdisk. 
 
 So I waited for Microsoft to wake up and start fighting for developers out there, and they kind of did, they gave us...
 
@@ -21,7 +24,7 @@ So I waited for Microsoft to wake up and start fighting for developers out there
 
 In 2016 Microsoft announced a WSL (Windows Linux Subsystem) worthy alternative to Unix Roots of MacOS. WSL was Linux "compatibility layer" that allowed Windows to run Linux applications.
 
-It sounded so cool but in reality, it was bad, you could not run every Linux application, it was painfully slow with I/O operations, installing the npm packages process could take minutes when in reality should have been done in seconds. 
+It sounded so cool but in reality, it was/is bad, you could not run every Linux application, it was painfully slow with I/O operations, installing the npm packages process could take minutes when in reality should have been done in seconds. 
 
 On top of all those issues, no good terminal emulator was available, the best one that I've used with WSL was ConEmu or starting X Server and using Linux Terminator. 
 
