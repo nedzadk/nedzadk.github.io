@@ -12,11 +12,11 @@ tags:
 For more than seven years I've been using macOS and MacBooks exclusively for work and everything else. My tech stack mostly involves Javascript (React, Node, Angular) but I do have a couple of projects that are written using Ruby on Rails, Python and one even in Java (spring-boot).
 
 I am a big fan of Macbooks and Apple because of their "it just works" philosophy, but I also think that hardware price is too much expensive and for the same price you can get a much better laptop elsewhere (except touch bar, no touch bar can match one on MacBook in PC land).
-Windows is OS I grew up with like most of the kids in that time, it's a place where I made my first steps in to the programming. 
-I started with version 3.11 and as my first programming language i picked Basic (again like most of the kids from that age), started with Basic for DOS and than I moved to Liberty Basic (funny thing, it is still around :D http://libertybasic.com/). 
-So it was logical that i always had some nostalgic feel about Microsoft and Windows and was always looking for a reason to switch. 
+Windows is OS I grew up with like most of the kids in that time, it's a place where I made my first steps into the programming. 
+I started with version 3.11 and as my first programming language, i picked Basic (again like most of the kids from that age), started with Basic for DOS and then I moved to Liberty Basic (funny thing, it is still around :D http://libertybasic.com/). 
+So it was logical that I always had some nostalgic feel about Microsoft and Windows and was always looking for a reason to switch. 
 
-Some of you might wonder why not Linux? It can run on most of the cheaper hardware and work pretty well. Well I tried Linux (more than once) and although most development stuff I need is working perfectly on it, modern hardware support, software support (no, GIMP is no alternative to Photoshop and it probably never will be) and UX experience is what I think at least ten years behind Windows or macOS. Battery drains and bad handling of multiple GPUs inside laptops is still a common issue for all distros out there and I did try most of them. Closest one with most of the hardware related stuff working out of the box is Pop_OS! But on my new laptop, it refused to boot into installation without some fiddling with grub/gdisk. 
+Some of you might wonder why not Linux? It can run on most of the cheaper hardware and work pretty well. Well, I tried Linux (more than once) and although most development stuff I need is working perfectly on it, modern hardware support, software support (no, GIMP is no alternative to Photoshop and it probably never will be) and UX experience is what I think at least ten years behind Windows or macOS. Battery drains and bad handling of multiple GPUs inside laptops is still a common issue for all distros out there and I did try most of them. Closest one with most of the hardware related stuff working out of the box is Pop_OS! But on my new laptop, it refused to boot into installation without some fiddling with grub/gdisk. 
 
 So I waited for Microsoft to wake up and start fighting for developers out there, and they kind of did, they gave us...
 
@@ -47,9 +47,9 @@ I should also mention that together with WSL2 Microsoft introduced Windows Termi
 
 ## Conclusion 
 
-So as I said after four weeks I am pretty happy with setup*, not a single issue appeared and all my projects work without issues. I was able to be productive without thinking much about how to make tools work for me, they just do. 
+So as I said after four weeks I am pretty happy with setup*, not a single issue appeared and my dev workflow is uninterrupted without hiccups.  
 
-I am really happy to see where "new" Microsoft is going and excited for 2020 once WSL2 is released to the public. I am sure by then it will be a perfect tool for developers out there waiting for proper alternative for their MacOS and MacBook. 
+I am really happy to see where "new" Microsoft is going and excited for 2020 once WSL2 is released to the public. I am sure by then it will be a perfect tool for developers out there waiting for a proper alternative for their MacOS and MacBook. 
 
 
 ``` * Dell XPS 7390/13/FHD/16/512/i7 10510U  ```
