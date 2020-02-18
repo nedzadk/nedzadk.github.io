@@ -5,8 +5,7 @@ author: "Nedzad"
 permalink: /about/
 ---
 
-Hi, my name is Nedzad and I am software developer. For the last 5 years my main focus is JavaScript and frameworks and libraries written in it. 
-More detailed experience and technologies that I am comfortable with can be found bellow: 
+Hi, my name is Nedzad and I am software developer. 
 
 ## Languages 
 * JavaScrit
