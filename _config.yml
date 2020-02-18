@@ -1,17 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Nedzad Kulelija
+description:    "Software Developer"
+baseurl:        "/"
+url:            "https://nechko.dev"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Nedzad Kulelija
+  url:          https://nechko.dev
+  email:        nedzadk@gmail.com
 
 # Build settings
 markdown:       kramdown
