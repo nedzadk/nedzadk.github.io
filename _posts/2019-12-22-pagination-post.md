@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Windows for Web development in 2020 (State of WSL2)
+title: Using Windows for Web development in 2020
 author: "Nedzad"
 ---
 
