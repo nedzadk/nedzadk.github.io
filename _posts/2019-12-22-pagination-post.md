@@ -32,7 +32,7 @@ But all was not lost, early in 2019 Microsoft introduced WSL2 with real Linux ke
 
 So I waited a couple of versions and decided to give Windows another try as my main development machine* with Windows Insider version and beta WSL2 not expecting much but boy I was so wrong. 
 
-I am currently writing this from the Windows machine that I use as my main fulltime dev station, and I can say that I am happy. In the past four weeks, not a single thing made me regret switch (which happened a couple of times a day when used WSL1). 
+I am currently writing this from the Windows machine that I use as my main fulltime dev station (for now), and I can say that I am happy. In the past four weeks not many things made me regret switch (which was not a case when used initial WSL version). 
 WSL2 is as fast as it can be, Windows integration with Linux is so seamless that you forget you are running a virtual Linux system. You `cd` to project directory and type `code .`, Visual Studio Code (Windows version not WSL) would popup with your project loaded and ready to debug with remote debugger setup between windows and WSL and I did not have to do anything except installing VS Code for Windows, rest of the setup (remote debugger and other stuff) were installed automatically on first Visual Studio Code start. 
 
 ![WSL2/Ubuntu and Windows Terminal](../images/screen.png)
