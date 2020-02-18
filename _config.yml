@@ -5,7 +5,7 @@ baseurl:        "/"
 url:            "https://nechko.dev"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-139966123-1
 
 # Author
 author:
